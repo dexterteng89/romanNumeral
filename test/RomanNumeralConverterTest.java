@@ -55,5 +55,10 @@ public class RomanNumeralConverterTest {
         assertEquals("X", new RomanNumeralConverter().toRomanNumeral(10));
     }
 
+    @Test
+    public void shouldGiveIForAppendOne(){
+        assertEquals("I", )
+    }
+
 
 }
